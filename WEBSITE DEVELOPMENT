@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shreshtha Kasliwal - RESUME</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', Times, serif, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f39c9c;
+    }
+    header {
+      background: #b51212;
+      color: #d18888;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #f69191;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+      border-bottom: 2px solid #f19999;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+      color: #333;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #333;
+      color: #fff;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Shreshtha Kasliwal </h1>
+    <p>Student</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:you@example.com">shreshtha.kasliwal@gmail.com</a></p>
+      <p>Phone: +91 9691255854</p>
+      <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
+      <p>GitHub: <a href="#">github.com/yourusername</a></p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>Bachelor of Commerce</strong><br/>
+           Mumbai University, 2024 - 2027</p>
+        <ul>
+          <li><strong>BBA in Digital Business and Entrepreneurship</strong> - Indian Institute of Management Bangalore</li>
+          <li><strong>Class 12</strong> - The Shishukunj International School (2024) - 82%</li>
+          <li><strong>Class 10</strong> - The Shishukunj International School (2022) - 92%</li>
+        </ul>
+      </section>
+      
+    
+    <section>
+        <h2>Experience</h2>
+        <p><strong>Frontend Intern</strong> at Millenium Overseas, Indore<br/>
+        May 2023 – June 2023</p>
+        <ul>
+          <li>Worked on internal website UI/UX design and assisted in frontend development tasks</li>
+        </ul>
+        
+        <p><strong>Leadership</strong></p>
+        <ul>
+          <li>House Captain (Senior), The Shishukunj International School</li>
+        </ul>
+        
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>Communication</li>
+        <li> Managerial skills </li>
+        <li>Designing </li>
+        <li>Analytical and Problem-Solving Skills, Communication, Adaptability</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <p><strong>RESURME</strong> – A resume website for showcasing professional profile.<br/>
+      <a href="#">View Project</a></p>
+    </section>
+  </div>
+
+  <footer>
+    &copy; 2025 Shreshtha Kasliwal | All Rights Reserved
+  </footer>
+</body>
+</html>
